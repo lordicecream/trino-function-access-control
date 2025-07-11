@@ -55,9 +55,9 @@ You can use the resulting `trino-server-476.jar` to run Trino with built-in func
 
 ---
 
-## 📆 Docker (Optional)
+## 📆 Docker Image(Optional)
 
-Docker image to come
+kunalnegi/trino:476-amd64
 
 ---
 
